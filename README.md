@@ -20,5 +20,5 @@ Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
 
 ### Giới thiệu bản thân:
 Họ tên | MSSV | Email
---- | --- | -- | --
+--- | --- | -- 
 Nguyễn Hoàng Duy | 22520327 | 22520327@gm.uit.edu.vn
