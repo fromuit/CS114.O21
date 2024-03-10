@@ -8,7 +8,7 @@
 
 
 
-## **CS114.O21- MACHINE LEARNING - Máy Học **
+## CS114.O21- MACHINE LEARNING - Máy Học 
 
 ### Giáo viên hướng dẫn
 
